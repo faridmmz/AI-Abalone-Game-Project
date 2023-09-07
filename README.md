@@ -12,11 +12,11 @@ Welcome to the third and final project from my AI university course! I hope you 
 ## Project Overview
 This project implements the classic two-player game Abalone in the Godot engine, along with an AI opponent capable of playing Abalone, a strategic board game where players aim to push their opponent's marbles off the hexagonal board, that uses the Minimax algorithm with alpha-beta pruning, proper evaluation functions, forward pruning, and table transposition to play against itself. Here's an image of the game at the start and after the first move:
 
-![Game at the start image](https://github.com/faridmmz/AI-Abalone-Game-Project/blob/main/README_Image.jpg "Real image of the game")
+![Game at the start image](https://github.com/faridmmz/AI-Abalone-Game-Project/blob/main/README_image.jpg "Real image of the game")
 
 And here's an image of the game when it finishes:
 
-![Game at the end image](https://github.com/faridmmz/AI-Abalone-Game-Project/blob/main/Endgame_Image.jpg)
+![Game at the end image](https://github.com/faridmmz/AI-Abalone-Game-Project/blob/main/Endgame_image.jpg)
 
 ## Project Requirements
 ### The main requirements of this project include:
